@@ -32,5 +32,6 @@ print("no of columns",len(df.axes[1]))
 ```
 
 ## OUTPUT:
+![Screenshot 2024-01-02 155336](https://github.com/SuryaR03/Read-from-CSV/assets/147140237/9f159c7a-40b9-458b-a9fa-64c479c78c70)
 
 ## RESULT:
